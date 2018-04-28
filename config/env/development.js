@@ -7,6 +7,8 @@ module.exports = {
 
    // db: "mongodb://localhost:27017/nodegoat",
 
+    db: "mongodb://localhost/nodegoat",
+
    // If you want to use a MongoLab instance, just sign up for it, create a data-store, in this example we call it nodegoat.
    // and again just run the grunt db-reset:development command
    //db: 'mongodb://<dbuser>:<dbpassword>@<databasename>',
